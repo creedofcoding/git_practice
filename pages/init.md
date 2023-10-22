@@ -8,4 +8,4 @@
 git init
 ```
 
-Чтобы увидеть все опции команды git add, перейдите по [этой ссылке](https://git-scm.com/docs/git-init).
+Чтобы увидеть все опции команды **git init**, перейдите по **[этой ссылке](https://git-scm.com/docs/git-init)**.

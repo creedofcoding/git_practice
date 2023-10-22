@@ -16,4 +16,4 @@ git add <path>
 git add .
 ```
 
-Чтобы увидеть все опции команды git add, перейдите по [этой ссылке](https://git-scm.com/docs/git-add).
+Чтобы увидеть все опции команды **git add**, перейдите по **[этой ссылке](https://git-scm.com/docs/git-add)**.
