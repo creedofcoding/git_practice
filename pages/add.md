@@ -1,4 +1,4 @@
-[На главную](./readme.md)
+[На главную](../readme.md)
 
 ## git add
 
