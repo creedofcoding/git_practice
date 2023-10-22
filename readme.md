@@ -6,8 +6,8 @@ LICENSE: [MIT](./license.md)
 
 ### Содержание
 
-1. Что-то
-2. [git add](./add.md)
+1. [git init](./pages/init.md)
+2. [git add](./pages/add.md)
 
 ---
 
