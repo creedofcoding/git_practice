@@ -27,7 +27,17 @@ LICENSE: [MIT](./license.md)
 ### Содержание
 
 1. [git init](./pages/init.md)
-2. [git add](./pages/add.md)
+2. [git clone](./pages/clone.md)
+3. [git add](./pages/add.md)
+4. [git status](./pages/status.md)
+5. [git commit](./pages/commit.md)
+6. [git push](./pages/push.md)
+7. [git diff](./pages/diff.md)
+8. [git rm](./pages/rm.md)
+9. [git mv](./pages/mv.md)
+10. [git log](./pages/log.md)
+
+<br>
 
 ---
 
