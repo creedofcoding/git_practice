@@ -10,4 +10,4 @@ git commit
 
 ---
 
-Чтобы увидеть официальную документацию о **git commit**, перейдите по **[этой ссылке](https://git-scm.com/docs/git-commit)**.
+Чтобы увидеть более подробную документацию о **git commit**, перейдите по **[этой ссылке](https://www.yourtodo.ru/posts/13/#commit)**.
