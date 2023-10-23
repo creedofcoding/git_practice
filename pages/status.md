@@ -10,4 +10,4 @@ git status
 
 ---
 
-Чтобы увидеть официальную документацию о **git status**, перейдите по **[этой ссылке](https://git-scm.com/docs/git-status)**.
+Чтобы увидеть более подробную документацию о **git status**, перейдите по **[этой ссылке](https://www.atlassian.com/ru/git/tutorials/inspecting-a-repository)**.
