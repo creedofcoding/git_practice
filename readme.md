@@ -32,6 +32,9 @@
 8. [git rm](./pages/rm.md)
 9. [git mv](./pages/mv.md)
 10. [git log](./pages/log.md)
+11. [git reset](./pages/reset.md)
+12. [git restore](./pages/restore.md)
+13. [git clean](./pages/clean.md)
 
 ---
 
