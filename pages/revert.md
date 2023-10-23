@@ -10,4 +10,4 @@ git revert
 
 ---
 
-Чтобы увидеть более подробную документацию о **git revert**, перейдите по **[этой ссылке](https://www.atlassian.com/ru/git/tutorials/undoing-changes/git-reset)**.
+Чтобы увидеть более подробную документацию о **git revert**, перейдите по **[этой ссылке](https://www.yourtodo.ru/posts/13/#revert)**.

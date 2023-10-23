@@ -29,12 +29,10 @@
 5. [git commit](./pages/commit.md)
 6. [git push](./pages/push.md)
 7. [git diff](./pages/diff.md)
-8. [git rm](./pages/rm.md)
-9. [git mv](./pages/mv.md)
-10. [git log](./pages/log.md)
-11. [git revert](./pages/revert.md)
-12. [git restore](./pages/restore.md)
-13. [git clean](./pages/clean.md)
+8. [git log](./pages/log.md)
+9. [git revert](./pages/revert.md)
+10. [git restore](./pages/restore.md)
+11. [git clean](./pages/clean.md)
 
 ---
 
